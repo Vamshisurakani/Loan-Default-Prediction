@@ -1,5 +1,5 @@
 # Loan-Default-Prediction
-In this project I used logistic regression , Support vector Machines , XGBoost to predict if a coustomer who wants to take a loan is likely to default it or not
+In this project I used logistic regression , Support vector Machines , XGBoost to predict if a customer who wants to take a loan is likely to default it or not
 
 The data was taken from Kaggle.
 The data contains 10000 rows of data which was had the problem of class imbalance which means the data points belonging to Defaulted? == 1 are very less in number or were
